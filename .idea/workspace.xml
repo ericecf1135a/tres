@@ -10,8 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2c73003-4c0f-4e63-9d1b-4d68153bdc68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/emprosoft7head/loginprueba/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580880006148</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="folder res new">
+      <created>1580881578039</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580881578039</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,13 +195,14 @@
     <MESSAGE value="se agrega draver" />
     <MESSAGE value="Merge branch 'pepo'&#10;&#10;# Conflicts:&#10;#&#9;app/build.gradle&#10;#&#9;app/src/main/AndroidManifest.xml&#10;#&#9;app/src/main/res/values/strings.xml" />
     <MESSAGE value="pantalla completa" />
-    <option name="LAST_COMMIT_MESSAGE" value="pantalla completa" />
+    <MESSAGE value="folder res new" />
+    <option name="LAST_COMMIT_MESSAGE" value="folder res new" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1580880003757">
+    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1580881576777">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1580880003757" />
+    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1580881576777" />
     <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1580880953698">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
